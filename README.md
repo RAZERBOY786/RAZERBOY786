@@ -1,70 +1,161 @@
-# 👋 Hi, I'm Sahil Islam!
-### Computer Science Student & Full-Stack Mobile Developer 🚀
+# 👋 Hi there, I'm Sahil Islam! <img src="https://media.giphy.com/media/eeamAEXOLeGoItS1Uv/giphy.gif" width="40s">
 
-I am a passionate Computer Science student dedicated to building impactful digital solutions. My expertise lies in **Full-Stack Mobile Application Development** (React Native & Expo) and integrating **Machine Learning/AI** systems to solve real-world problems. I love turning complex data into smooth, user-friendly applications.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=20E680&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+Mobile+Developer;Machine+Learning+Enthusiast;Building+Apps+That+Matter" alt="Typing Animation" />
+</p>
 
----
-
-### 🛠️ Technical Skills
-
-| Category | Technologies |
-| :--- | :--- |
-| **Programming Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
-| **Mobile & Frontend** | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-$000000.svg?style=flat&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |
-| **Databases** | ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
-| **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat&logo=opencv&logoColor=5C3EE8) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) |
-| **Tools & OS** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=Blender&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) |
-
----
-
-### 📂 Highlighted Projects
-
-#### 🌌 SkyPure – AQI Prediction App (2026)
-* An intelligent air quality monitoring and predictive application designed to keep users informed about environmental conditions.
-* Built data analysis and prediction models integrated seamlessly with a clean mobile UI for real-time, actionable insights.
-* **Tech Stack:** React Native (TSX), Expo Go, Python, Machine Learning, Firebase
-* 🔗 [GitHub Repository](https://github.com/RAZERBOY786/SKYPURE)
-
-#### 👟 Walkify – Smart Step Tracker App (2026)
-* A modern health and fitness application that monitors daily physical activity and visualizes progress in real time.
-* Designed a pixel-perfect, intuitive user interface with optimized background performance.
-* **Tech Stack:** React Native (TSX), Expo Go, Firebase
-* 🔗 [GitHub Repository](https://github.com/RAZERBOY786/Walkify)
-
-#### 🎵 Loopify – Music Player App (2026)
-* A modern, streaming-inspired music player equipped with unique segment-looping features built for learning and entertainment.
-* Includes a global mini-player, background audio persistence, and live progress tracking.
-* **Tech Stack:** React Native (TypeScript), Expo Go, Firebase, REST APIs
-* 🔗 [GitHub Repository](https://github.com/RAZERBOY786/loopify)
-
-#### 🌿 LeafWish – Plant Disease Treatment System (2025)
-* An AI-powered smart application that identifies plant leaf diseases, analyzes root causes, and generates automated treatment plans.
-* Utilized Transfer Learning (TensorFlow) and advanced image processing to deliver accurate, data-driven agricultural solutions.
-* **Tech Stack:** Python, OpenCV, TensorFlow, NumPy, React, MySQL
-* 🔗 [GitHub Repository](https://github.com/RAZERBOY786/leafwish-)
-
-#### 📅 Task Management App (2025)
-* A full-stack web application built to streamline task creation, category filtering, and real-time management.
-* **Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
-
-#### 🌐 Author Portfolio Website (2025)
-* Designed and deployed a fully responsive, beautiful, interactive website for the renowned author Hussain Ul Haque to enhance his digital presence.
-* 🔗 [Live Website](http://www.hussainulhaque.info)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAZERBOY786&show_icons=true&theme=radical" alt="Sahil's GitHub Stats" height="175px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAZERBOY786&layout=compact&theme=radical" alt="Top Languages" height="175px" />
+<p align="center">
+  <img src="https://img.shields.io/github/followers/RAZERBOY786?label=Followers&style=for-the-badge&color=20E680&logo=github" alt="Followers">
+  <img src="https://img.shields.io/github/stars/RAZERBOY786?style=for-the-badge&color=20E680&logo=github" alt="Total Stars">
 </p>
 
 ---
 
-### 🤝 Connect with Me
-* 📧 Email: [Your Email Here]
-* 💼 LinkedIn: [Your LinkedIn Profile Link Here]
-* 🌐 Portfolio: [Your Portfolio Link Here]
+## 🚀 About Me
 
-*"Striving to build technology that makes a difference."*
+I am a passionate **Computer Science Student** specializing in full-stack mobile architecture and intelligent computing. I love bridging the gap between intricate machine learning backends and pixel-perfect, highly responsive mobile interfaces.
+
+* 📱 **Core Focus:** Building high-performance cross-platform apps using React Native & Expo Go.
+* 🤖 **AI Integration:** Implementing computer vision, predictive modeling, and intelligent APIs into production-ready software.
+* 💡 **Philosophy:** Writing clean, scalable, and beautifully documented code.
+
+---
+
+## 🛠️ My Tech Stack
+
+### 💻 Mobile & Frontend (Always Active)
+<p align="left">
+  <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactnative" width="45" height="45"/>
+  </a> &nbsp;
+  <a href="https://expo.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="45" height="45"/>
+  </a> &nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+</p>
+
+### 🧠 Machine Learning & Backend
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://opencv.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+</p>
+
+### 🗄️ Database & Cloud Services
+<p align="left">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+## 📂 Featured Applications
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>☁️ SkyPure — AQI Prediction</h3>
+      <p>An intelligent ecosystem monitoring app predicting real-time Air Quality Index metrics utilizing integrated predictive analytics models.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Expo-000?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <a href="https://github.com/RAZERBOY786/SKYPURE">📂 View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>👟 Walkify — Smart Step Tracker</h3>
+      <p>A fitness tracking solution built with optimized background handling mechanics to process activity tracking alongside visual progress charts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+      <a href="https://github.com/RAZERBOY786/Walkify">📂 View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎵 Loopify — Music Player App</h3>
+      <p>An advanced, high-fidelity sound station providing precise segment looping tools tailored for track study, learning, and playback automation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
+      </p>
+      <a href="https://github.com/RAZERBOY786/loopify">📂 View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>🌿 LeafWish — AI Plant Doctor</h3>
+      <p>Agricultural optimization suite deploying computer vision algorithms and Transfer Learning models to capture, process, and diagnose crop leaf damage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <a href="https://github.com/RAZERBOY786/leafwish-">📂 View Repository</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary>🔍 View Web & Classic Projects</summary>
+  <br />
+  <ul>
+    <li><strong>Task Management Web Application (2025):</strong> Full-stack scheduling software constructed with HTML, CSS, JavaScript, PHP, and MySQL.</li>
+    <li><strong>Hussain Ul Haque Portfolio (2025):</strong> A responsive, production web layout optimized for digital showcase. <a href="http://www.hussainulhaque.info" target="_blank">Live Website 🌐</a></li>
+  </ul>
+</details>
+
+---
+
+## 📈 Activity Engine
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAZERBOY786&theme=tokyonight&background=1a1b26&ring=20E680&fire=20E680" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAZERBOY786&layout=compact&theme=tokyonight&bg_color=1a1b26&title_color=20E680" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAZERBOY786&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=20E680&icon_color=20E680" alt="Sahil's GitHub Profile Stats" width="85%" />
+</p>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<p align="left">
+  <a href="islamsahil752@gmail.com                ">
+    <img src="https://img.shields.io/badge/Email-✉️-informational?style=for-the-badge&color=121212&logoColor=white" alt="Email" />
+  </a>&nbsp;&nbsp;
+  <a href="sahil-islam-a2b9941b3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-🤝-blue?style=for-the-badge&logo=linkedin&color=0077B5" alt="LinkedIn" />
+  </a>
+</p>

@@ -23,6 +23,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:20E680&height=3&width=100%25" width="100%"/>
 
+## 🏎️✈️🤖 Animated Showcase
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RAZERBOY786/RAZERBOY786/main/assets/hero-animation.svg" width="100%" alt="F1 car, airplane, ML model, AI agent and robot animation"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RAZERBOY786/RAZERBOY786/main/assets/gaming-zone.svg" width="100%" alt="FPS gaming zone animation with PUBG, Valorant, CS:GO, COD"/>
+</p>
+
+> **Setup note:** these two banners are custom animated SVGs (racing F1 car, flying plane, pulsing ML network, typing AI agent, idle robot, scanning crosshair, controller, and rotating FPS game badges). GitHub strips `<script>` tags but **does** render native SVG `<animate>`/`<animateMotion>` tags, so they move right in the README — no GIF needed. To use them:
+> 1. Create a folder named `assets/` in this profile repo (`RAZERBOY786/RAZERBOY786`).
+> 2. Upload `hero-animation.svg` and `gaming-zone.svg` into it.
+> 3. Keep the `raw.githubusercontent.com/.../main/assets/...` links above as-is — they'll resolve automatically once the files exist in `main`.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:20E680,100:0f2027&height=3&width=100%25" width="100%"/>
+
 ## 🚀 About Me
 
 <img align="right" src="https://raw.githubusercontent.com/gist/vn7n24fzkq/94b3d2ce33d17ee6d8bee46fc267d224/raw/ppc.gif" width="260"/>
@@ -33,6 +50,7 @@ I am a passionate **Computer Science Student** specializing in full-stack mobile
 - 🤖 **AI Integration:** Implementing computer vision, predictive modeling, and intelligent APIs into production-ready software.
 - 💡 **Philosophy:** Writing clean, scalable, and beautifully documented code.
 - 🌱 **Currently exploring:** LLM-powered mobile tooling & edge ML.
+- 🎮 **Off duty:** Fragging in Valorant, CS:GO, PUBG and COD when I'm not shipping code.
 - ⚡ **Fun fact:** I debug faster with music on — always got something looping in the background.
 
 <br clear="right"/>
@@ -87,6 +105,21 @@ I am a passionate **Computer Science Student** specializing in full-stack mobile
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:20E680&height=3&width=100%25" width="100%"/>
 
+## 🎮 Gaming Zone
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PUBG-F2A900?style=for-the-badge&logo=pubg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VALORANT-FF4655?style=for-the-badge&logo=valorant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CS:GO-000000?style=for-the-badge&logo=counterstrike&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Call%20of%20Duty-000000?style=for-the-badge&logo=activision&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apex%20Legends-DA292A?style=for-the-badge&logo=apexlegends&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fortnite-000000?style=for-the-badge&logo=epicgames&logoColor=white"/>
+</p>
+
+> Crosshair placement in Valorant, rotations in PUBG, spray control in CS:GO, and a bit of chaos in COD — same reflexes I bring to debugging under pressure.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:20E680,100:0f2027&height=3&width=100%25" width="100%"/>
+
 ## 🏆 Trophy Case
 
 <p align="center">
@@ -119,6 +152,25 @@ I am a passionate **Computer Science Student** specializing in full-stack mobile
   <img src="https://raw.githubusercontent.com/RAZERBOY786/RAZERBOY786/output/github-contribution-grid-snake.svg" alt="snake animation" width="90%"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:20E680&height=3&width=100%25" width="100%"/>
+
+## ➕ 10 More Dynamic Widgets
+
+A grab bag of extra motion/data widgets you can drop in. Ones marked **plug-and-play** work from your username alone; ones marked **needs setup** need a small one-time GitHub Action.
+
+1. **3D contribution calendar** *(needs setup — [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib))* — isometric animated version of your contribution graph.
+2. **Profile summary cards** *(plug-and-play)* — radar chart of languages, stats, and a punch-card of commit times:
+   `![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAZERBOY786&theme=tokyonight)`
+3. **WakaTime coding activity** *(needs setup — [waka-readme](https://github.com/athul/waka-readme))* — auto-updates with your weekly language/editor time.
+4. **Spotify now playing** *(needs setup — [novatorem/spotify-github-profile](https://github.com/novatorem/spotify-github-profile))* — live "currently listening to" card.
+5. **Discord presence badge** *(needs setup — [Lanyard API](https://github.com/Phineas/lanyard))* — shows your live Discord status.
+6. **Auto-updated latest blog posts** *(needs setup — [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow))* — pulls your newest posts into a list.
+7. **Pinned repo cards** *(plug-and-play)*:
+   `![](https://github-readme-stats.vercel.app/api/pin/?username=RAZERBOY786&repo=YOUR_REPO&theme=tokyonight)`
+8. **Random coding meme** *(plug-and-play)* — `https://readme-jokes.vercel.app/api` for a rotating dev joke card instead.
+9. **Terminal-style "whoami" banner** *(plug-and-play)* — a second `readme-typing-svg` block styled like a shell prompt, e.g. `lines=$ whoami;> full-stack+ml+dev;$ status --check;> shipping`.
+10. **Metrics dashboard** *(plug-and-play, highly configurable — [lowlighter/metrics](https://github.com/lowlighter/metrics))* — combines stats, languages, a calendar heatmap, and more into one themeable SVG panel.
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:20E680,100:0f2027&height=3&width=100%25" width="100%"/>
 
 ## 🎯 What I'm Up To
@@ -128,6 +180,7 @@ I am a passionate **Computer Science Student** specializing in full-stack mobile
 🌱 Currently learning   : Edge ML & on-device inference
 👯 Open to collaborate  : Mobile apps, computer vision, developer tooling
 💬 Ask me about         : React Native, TensorFlow, OpenCV, FastAPI
+🎮 Currently grinding   : Valorant ranked, PUBG chicken dinners
 ⚡ Status                : Probably shipping something right now
 ```
 

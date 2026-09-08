@@ -1,93 +1,27 @@
 <div align="center">
 
-<!-- Animated Gaming Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sahil%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Mobile%20Developer%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
-<img
-src="https://raw.githubusercontent.com/RAZERBOY786/RAZERBOY786/main/assets/gaming-header.svg"
-width="100%"
-alt="Sahil Islam animated gaming developer header"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=20E680&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+Mobile+Developer;Machine+Learning+Enthusiast;Building+Apps+That+Matter;Always+Shipping+Something+New" alt="Typing Animation"/>
 
-<br/>
-
-<!-- Professional Identity -->
-
-<h1>Sahil Islam</h1>
-
-<p>
-  <strong>Full-Stack Mobile Developer</strong>
-  &nbsp;•&nbsp;
-  <strong>Machine Learning Enthusiast</strong>
-  &nbsp;•&nbsp;
-  <strong>Computer Science Student</strong>
-</p>
-
-<!-- Dynamic Typing -->
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=20E680&center=true&vCenter=true&width=700&lines=Building+Scalable+Mobile+Applications;Machine+Learning+%26+AI+Projects;React+Native+%7C+Python+%7C+FastAPI;Turning+Ideas+Into+Real+Products;Always+Learning.+Always+Building."
-alt="Typing animation"
-/>
-
-<br/><br/>
-
-<!-- GitHub Metrics -->
+<img src="https://media.giphy.com/media/eeamAEXOLeGoItS1Uv/giphy.gif" width="60"/>
 
 <p>
   <a href="https://github.com/RAZERBOY786?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/RAZERBOY786?label=Followers&style=for-the-badge&color=20E680&logo=github"
-      alt="GitHub Followers"
-    />
+    <img src="https://img.shields.io/github/followers/RAZERBOY786?label=Followers&style=for-the-badge&color=20E680&logo=github" alt="Followers"/>
   </a>
-
   <a href="https://github.com/RAZERBOY786?tab=repositories">
-    <img
-      src="https://img.shields.io/github/stars/RAZERBOY786?style=for-the-badge&color=20E680&logo=github"
-      alt="GitHub Stars"
-    />
+    <img src="https://img.shields.io/github/stars/RAZERBOY786?style=for-the-badge&color=20E680&logo=github" alt="Total Stars"/>
   </a>
-
-<img
- src="https://komarev.com/ghpvc/?username=RAZERBOY786&style=for-the-badge&color=20E680&label=PROFILE+VIEWS"
- alt="Profile Views"
-/>
-
+  <img src="https://komarev.com/ghpvc/?username=RAZERBOY786&style=for-the-badge&color=20E680&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-<!-- Contact -->
-
-<p>
-  <a href="mailto:islamsahil752@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-20E680?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/sahil-islam-a2b9941b3">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://github.com/RAZERBOY786">
-    <img
-      src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=20E680"
-      alt="GitHub"
-    />
-  </a>
-</p>
+<a href="mailto:islamsahil752@gmail.com"><img src="https://img.shields.io/badge/Say_Hi!-20E680?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sahil-islam-a2b9941b3" target="_blank"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
-<br/>
-
-<img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:20E680&height=3&width=100%25"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:20E680&height=3&width=100%25" width="100%"/>
 
 
 ## 🚀 About Me

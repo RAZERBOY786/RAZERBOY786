@@ -87,26 +87,7 @@ I am a passionate **Computer Science Student** specializing in full-stack mobile
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:20E680&height=3&width=100%25" width="100%"/>
 
-## 🏆 Trophy Case
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAZERBOY786&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" alt="trophies"/>
-</p>
-
-## 📊 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAZERBOY786&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=20E680&icon_color=20E680&include_all_commits=true&count_private=true" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAZERBOY786&theme=tokyonight&background=1a1b26&ring=20E680&fire=20E680" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAZERBOY786&layout=compact&theme=tokyonight&bg_color=1a1b26&title_color=20E680&include_all_commits=true&count_private=true" alt="Top Languages" width="60%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAZERBOY786&theme=tokyo-night&bg_color=1a1b26&color=20E680&line=20E680&point=ffffff&hide_border=true" width="90%" alt="activity graph"/>
-</p>
 
 <!--
   🐍 Animated contribution snake — the closest thing to a "moving background" GitHub allows.

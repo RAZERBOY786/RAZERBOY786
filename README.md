@@ -86,9 +86,6 @@ I am a passionate **Computer Science Student** specializing in full-stack mobile
 </p>
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:20E680&height=3&width=100%25" width="100%"/>
-
-
 
 <!--
   🐍 Animated contribution snake — the closest thing to a "moving background" GitHub allows.
